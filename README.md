@@ -27,9 +27,6 @@ npm start
 ```
 
 To start a client, just run client.html
-## Authors
-
-- [@ScorchChamp](https://www.github.com/ScorchChamp)
 
 
 ## Demo
