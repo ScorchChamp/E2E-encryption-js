@@ -34,7 +34,6 @@ To start a client, just run client.html
 
 ## Demo
 
-Insert gif or link to demo
 ![Preview chatapp](https://raw.githubusercontent.com/ScorchChamp/Plain-Javascript-ChatApp/main/README/ChatApp.png)
 ## License
 
