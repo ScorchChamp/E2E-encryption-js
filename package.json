@@ -1,0 +1,29 @@
+{
+  "name": "e2e-encryption",
+  "version": "1.0.0",
+  "description": "A Chatapp made in plain javascript!",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorchChamp/E2E-encryption-js.git"
+  },
+  "keywords": [
+    "E2E-encryption",
+    "Diffie",
+    "Hellman"
+  ],
+  "author": "ScorchChamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScorchChamp/E2E-encryption-js/issues"
+  },
+  "homepage": "https://github.com/ScorchChamp/E2E-encryption-js#readme",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}

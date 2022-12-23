@@ -1,2 +1,2 @@
-# E2E-encryption-js
-Javascript implementation of Diffie Hellman and AES E2E encryption
+# PlainJS ChatApp
+A Chatapp made in plain javascript!
