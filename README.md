@@ -8,11 +8,20 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ScorchChamp/Plain-Javascript-ChatApp?style=for-the-badge) 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ScorchChamp/Plain-Javascript-ChatApp?style=for-the-badge)
+
+![Preview chatapp](https://raw.githubusercontent.com/ScorchChamp/Plain-Javascript-ChatApp/main/README/ChatApp.png)
+
 ## Features
 
 - Have a chat between you and your mates!
 - The chat runs over a websocket connection with a server
 - All messages are instant
+
+## Tech Stack
+
+**Client:** HTML, Javascript, CSS
+
+**Server:** Node, WebsocketServer
 
 ## Installation
 
@@ -29,19 +38,6 @@ npm start
 To start a client, just run client.html
 
 
-## Demo
-
-![Preview chatapp](https://raw.githubusercontent.com/ScorchChamp/Plain-Javascript-ChatApp/main/README/ChatApp.png)
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Tech Stack
-
-**Client:** HTML, Javascript, CSS
-
-**Server:** Node, WebsocketServer
 
 
 ## Support
@@ -54,3 +50,6 @@ Here are some related projects:
 
 - [Plain Javascript VideoChat](https://github.com/ScorchChamp/Plain-Javascript-Videochat)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
