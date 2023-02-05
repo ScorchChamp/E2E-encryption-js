@@ -1,6 +1,6 @@
 
 window.addEventListener("load", function () {
-    var ws = new WebSocket('ws://192.168.1.37:7000');
+    var ws = new WebSocket('wss://chatapp.scorchchamp.com');
 
     // Set up the message input element and the send button
     const userIdInput = document.getElementById('userid-input');
