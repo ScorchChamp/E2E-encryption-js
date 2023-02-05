@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ScorchChamp/E2E-encryption-js#readme",
   "dependencies": {
-    "ws": "^8.11.0"
+    "ws": "^8.12.0"
   }
 }

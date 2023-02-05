@@ -1,12 +1,13 @@
-body {
-    background-color: #494949;
-}
-
 .message {
     display: flex;
     flex-direction: column;
     margin: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.senderID {
+    font-size: 75%;
+    font-weight: 900;
 }
 
 .sender {
