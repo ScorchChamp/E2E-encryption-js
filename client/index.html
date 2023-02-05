@@ -19,11 +19,16 @@
 </head>
 
 <body>
+    <div id="message-history"></div>
     <input id="userid-input" type="text" placeholder="username" />
     <input id="message-input" type="text" placeholder="message" />
     <button id="send-button">Send</button>
-    <div id="message-history"></div>
     <script src="client.js"></script>
+    <div class="info">
+        <h3>Disclaimers</h3>
+        <p>All the messages are sent over HTTPS, but they are not E2E encrypted. I am theoretically able to read all of your messages.</p>
+        <p>Currently, the messages are not saved, filtered or authenticated in any way. Anyone can connect and use any username/message they'd like.</p>
+    </div>
 </body>
 
 </html>
